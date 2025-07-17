@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.studentmanagementsystem",
+    "sha256_cert_fingerprints":
+    ["D3:26:C2:5B:40:98:00:DD:22:82:43:DF:F5:59:82:93:68:3B:5B:EB:7F:34:0B:31:DE:B5:C2:7E:D0:2E:43:09"]
+  }
+}]
